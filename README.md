@@ -118,10 +118,10 @@ New capacity to add (GW) for each of 7 technologies across 5 years (2026–2030)
 
 ## Screenshots
 
-![Solver Model](images/Solver Model.png)
-![Results Dashboard](images/Optimization Results.png)
-![Scenario Analysis 1](images/Scenario Analysis 1.png)
-![Scenario Analysis 2](images/Scenario Analysis 2.png)
+![Solver Model](images/SolverModel.png)
+![Results Dashboard](images/OptimizationResults.png)
+![Scenario Analysis 1](images/ScenarioAnalysis1.png)
+![Scenario Analysis 2](images/ScenarioAnalysis2.png)
 
 ---
 
